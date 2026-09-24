@@ -1,0 +1,150 @@
+@charset "UTF-8";
+
+body{
+	margin: 0;
+	font-family: "Open Sans", sans-serif;
+	  font-optical-sizing: auto;
+	  font-weight: 600;
+	  font-variation-settings:
+    "wdth" 100;
+  font-style: normal;
+	font-size: 20px;
+	
+	background-color: rgba(195,238,242,1.00);
+	
+
+	
+	
+
+
+}
+
+
+
+h2{
+	
+font-family: "Domine", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+	font-style: normal;
+	font-size: 35px;
+	
+	
+}
+
+h1{
+	font-family: "Headland One", serif;
+  font-weight: 600;
+	font-style: normal;
+	font-size: 38px;
+	
+}
+
+footer{
+	
+	
+	padding: 10%;
+	color: rgba(189,141,192,1.00);
+	
+}
+
+p{
+	
+	padding: 7%;
+	
+}
+
+
+
+a:hover {
+	
+	color:darkred;
+}
+
+.button  {
+	
+	border: none;
+	color: rgba(195,238,242,1.00);
+	padding: 25px 50px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 30px;
+	background-color: rgba(189,141,192,1.00);
+	margin: 4px 2px;
+	cursor: pointer;
+		border-radius: 15px;
+	
+	
+	
+	
+	
+	
+}
+
+.Colorbutton  {
+	
+	border: none;
+	color: rgba(189,141,192,1.00);
+	padding: 25px 50px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 30px;
+	background-color:rgba(195,238,242,1.00);
+	margin: 4px 2px;
+	cursor: pointer;
+		border-radius: 15px;
+	
+	
+	
+	
+	
+	
+}
+
+
+
+.center{
+	
+	display:flex;
+	justify-content:center;
+	
+}
+
+
+
+
+.CenteR{
+	
+	display:flex;
+	justify-content:center;
+	
+}
+
+
+
+
+.hero{
+	
+	
+	background-image:url("Images/css-pattern-by-magicpattern.png"); 
+	
+}
+
+
+.colordesign{
+	background-color: rgba(189,141,192,1.00);
+	
+}
+
+.colorpurple{
+color: rgba(189,141,192,1.00);
+	
+}
+
+.colorBlue{
+color: rgba(195,238,242,1.00);
+	
+}
+
